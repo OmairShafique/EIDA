@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETABs", "ETABs\ETABs.csproj", "{F7BD1D40-A6BE-4F20-A452-57702D286383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETABSPlugInAPI", "ETABSPlugInAPI\ETABSPlugInAPI.csproj", "{93A27C3C-0955-40E5-8B5C-A15EB7A24D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BD1D40-A6BE-4F20-A452-57702D286383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BD1D40-A6BE-4F20-A452-57702D286383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BD1D40-A6BE-4F20-A452-57702D286383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BD1D40-A6BE-4F20-A452-57702D286383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A27C3C-0955-40E5-8B5C-A15EB7A24D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A27C3C-0955-40E5-8B5C-A15EB7A24D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A27C3C-0955-40E5-8B5C-A15EB7A24D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A27C3C-0955-40E5-8B5C-A15EB7A24D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
