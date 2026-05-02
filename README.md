@@ -30,7 +30,7 @@ Key features:
 
 Developed as part of a parametric seismic fragility study of 
 gravity-load-designed RC grid-like frame structures in low-to-moderate 
-seismicity regions (Pakistan, Malaysia).
+seismicity regions.
 
 Companion article: [link to Structures paper once published]
 MethodsX article: [link once published]
